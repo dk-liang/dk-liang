@@ -1,5 +1,6 @@
 ### Hi there 👋
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dk-liang)](https://github.com/anuraghazra/github-readme-stats)
+I am Dingkang Liang, a Master student in [Vlr group](https://www.vlrlab.net/), HUST. 
+![Dingkang's GitHub stats](https://github-readme-stats.vercel.app/api?username=dk-liang&show_icons=true)
 <!--
 **dk-liang/dk-liang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +15,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+Contact Me: 
+Email: dkliang@hust.edu.cn
+Website: http://dk-liang.github.io/
+Google Scholar: [https://scholar.google.com/dk-liang](https://scholar.google.com/citations?user=Tre69v0AAAAJ&hl=zh-CN)
+
