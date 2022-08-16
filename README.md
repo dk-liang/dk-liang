@@ -1,5 +1,5 @@
 ### Hi there 👋
-I am Dingkang Liang, a Master student in [Vlr group](https://www.vlrlab.net/), HUST. 
+I am Dingkang Liang, a PHD student in [Vlr group](https://www.vlrlab.net/), HUST. 
 ![Dingkang's GitHub stats](https://github-readme-stats.vercel.app/api?username=dk-liang&show_icons=true)
 <!--
 **dk-liang/dk-liang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
