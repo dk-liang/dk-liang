@@ -1,6 +1,6 @@
 <!-- ### Hi there 👋
 I am Dingkang Liang, a PHD student in [VLR Group](https://www.vlrlab.net/), HUST.  -->
-![Dingkang's GitHub stats](https://github-readme-stats.vercel.app/api?username=dk-liang&show_icons=true)
+![Dingkang's GitHub stats](https://github-readme-stats.vercel.app/api?username=dk-liang&show_icons=true&theme=vue&include_all_commits=true&count_private=true)
 
 
 Contact Me:   
