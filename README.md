@@ -2,9 +2,7 @@
 I am Dingkang Liang, a PHD student in [VLR Group](https://www.vlrlab.net/), HUST.  -->
 ![Dingkang's GitHub stats](https://github-readme-stats.vercel.app/api?username=dk-liang&show_icons=true&theme=vue&include_all_commits=true&count_private=true)
 
-Website: http://dk-liang.github.io/ 
-
-Google Scholar: [https://scholar.google.com/dk-liang](https://scholar.google.com/citations?user=Tre69v0AAAAJ&hl=zh-CN)
+[[Personal website](http://dk-liang.github.io/)] [[Google scholar](https://scholar.google.com/citations?user=Tre69v0AAAAJ&hl=zh-CN)]
 
  
 #### Top Repositories
