@@ -13,8 +13,16 @@ Google Scholar: [https://scholar.google.com/dk-liang](https://scholar.google.com
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=dk-liang&repo=Awesome-Visual-Transformer" />
 </a>
 
+<a href="https://github.com/LMD0311/PointMamba">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=LMD0311&repo=PointMamba" />
+</a>
+
 <a href="https://github.com/DYZhang09/SAM3D">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=DYZhang09&repo=SAM3D&theme=default" />
+</a>
+
+<a href="https://github.com/dk-liang/FIDTM">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=dk-liang&repo=FIDTM" />
 </a>
 
 <p align="center"> 
