@@ -35,12 +35,12 @@ I am Dingkang Liang, a PHD student in [VLR Group](https://www.vlrlab.net/), HUST
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=DYZhang09&repo=ToC3D" />
 </a>
 
-<a href="https://github.com/jerryfeng2003/PointGST">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=jerryfeng2003&repo=PointGST" />
-</a>
-
 <a href="https://github.com/DYZhang09/ViTWSS3D">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=DYZhang09&repo=ViTWSS3D" />
+</a>
+
+<a href="https://github.com/jerryfeng2003/PointGST">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=jerryfeng2003&repo=PointGST" />
 </a>
 
 #### Object counting
