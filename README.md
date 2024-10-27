@@ -5,7 +5,7 @@ I am Dingkang Liang, a PHD student in [VLR Group](https://www.vlrlab.net/), HUST
 [[Personal website](http://dk-liang.github.io/)] [[Google scholar](https://scholar.google.com/citations?user=Tre69v0AAAAJ&hl=zh-CN)]
 
  
-#### Awesome repositories
+#### Awesome Repositories
 <a href="https://github.com/dk-liang/Awesome-Visual-Transformer">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=dk-liang&repo=Awesome-Visual-Transformer" />
 </a>
@@ -14,7 +14,7 @@ I am Dingkang Liang, a PHD student in [VLR Group](https://www.vlrlab.net/), HUST
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=LMD0311&repo=Awesome-World-Model" />
 </a>
 
-#### 3D understanding
+#### 3D Understanding
 <a href="https://github.com/LMD0311/PointMamba">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=LMD0311&repo=PointMamba" />
 </a>
@@ -39,11 +39,19 @@ I am Dingkang Liang, a PHD student in [VLR Group](https://www.vlrlab.net/), HUST
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=DYZhang09&repo=ViTWSS3D" />
 </a>
 
+<a href="https://github.com/AlmoonYsl/QTNet">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AlmoonYsl&repo=QTNet" />
+</a>
+
+<a href="https://github.com/Whale-ice/DDS3D">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Whale-ice&repo=DDS3D" />
+</a>
+
 <a href="https://github.com/jerryfeng2003/PointGST">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=jerryfeng2003&repo=PointGST" />
 </a>
 
-#### Object counting
+#### Object Counting
 <a href="https://github.com/dk-liang/FIDTM">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=dk-liang&repo=FIDTM" />
 </a>
@@ -64,10 +72,15 @@ I am Dingkang Liang, a PHD student in [VLR Group](https://www.vlrlab.net/), HUST
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=dk-liang&repo=AutoScale" />
 </a>
 
-#### Object detection
+#### Object Detection
 <a href="https://github.com/HamPerdredes/SOOD">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=HamPerdredes&repo=SOOD" />
 </a>
+
+<a href="https://github.com/Adlith/MoE-Jetpack">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Adlith&repo=MoE-Jetpack" />
+</a>
+
 
 <p align="center"> 
   Visitor count<br>
