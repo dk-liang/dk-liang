@@ -51,7 +51,7 @@ I am Dingkang Liang, a PhD student.
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=jerryfeng2003&repo=PointGST" />
 </a>
 
-#### Object Counting
+#### Dense Object Analysis
 <a href="https://github.com/dk-liang/FIDTM">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=dk-liang&repo=FIDTM" />
 </a>
@@ -70,6 +70,10 @@ I am Dingkang Liang, a PhD student.
 
 <a href="https://github.com/dk-liang/AutoScale">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=dk-liang&repo=AutoScale" />
+</a>
+
+<a href="https://github.com/LSXI7/MINIMA">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=LSXI7&repo=MINIMA" />
 </a>
 
 #### Object Detection
