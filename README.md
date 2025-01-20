@@ -3,8 +3,6 @@
 
 I am Dingkang Liang, a Ph.D student at Huazhong University of Science and Technology (HUST). My research interests mainly lie in 3D object analysis, world models, and dense object analysis.
 
-I was selected into the Youth Student Fundamental Research Project from NSFC (首批国家自然科学基金博士生项目入选者) and the Young Elite Scientists Sponsorship Program-Doctoral Student Special Plan from CAST (首批中国科协青年人才托举工程-博士生专项入选者).
-
 [[Personal website](http://dk-liang.github.io/)] [[Google scholar](https://scholar.google.com/citations?user=Tre69v0AAAAJ&hl=zh-CN)]
 
 <!-- ![Dingkang's GitHub stats](https://github-readme-stats.vercel.app/api?username=dk-liang&show_icons=true&theme=vue&include_all_commits=true&count_private=true) -->
