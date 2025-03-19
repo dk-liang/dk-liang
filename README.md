@@ -58,7 +58,7 @@ I am Dingkang Liang, a Ph.D student at Huazhong University of Science and Techno
 </a>
 
 <a href="https://github.com/dk-liang/UniFuture">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=LMD0311&repo=HERMES" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=dk-liang&repo=UniFuture" />
 </a>
 
 
