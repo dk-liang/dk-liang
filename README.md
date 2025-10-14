@@ -3,8 +3,7 @@ I am Dingkang Liang, a Ph.D student at Huazhong University of Science and Techno
 
 [[Personal website](http://dk-liang.github.io/)] [[Google scholar](https://scholar.google.com/citations?user=Tre69v0AAAAJ&hl=zh-CN)]
 
-<!-- ![Dingkang's GitHub stats](https://github-readme-stats.vercel.app/api?username=dk-liang&show_icons=true&theme=vue&include_all_commits=true&count_private=true) -->
- 
+[Dingkang's GitHub stats](https://github-readme-stats.vercel.app/api?username=dk-liang&show_icons=true&theme=vue&include_all_commits=true&count_private=true)
 #### Awesome Repositories
 <a href="https://github.com/dk-liang/Awesome-Visual-Transformer">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=dk-liang&repo=Awesome-Visual-Transformer" />
