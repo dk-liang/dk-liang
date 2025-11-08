@@ -1,4 +1,3 @@
-
 I am Dingkang Liang. My research interests mainly lie in 3D object analysis and world models.
 
 [[Personal website](http://dk-liang.github.io/)] [[Google scholar](https://scholar.google.com/citations?user=Tre69v0AAAAJ&hl=zh-CN)]
