@@ -2,10 +2,6 @@ I am Dingkang Liang. My research interests mainly lie in 3D object analysis and 
 
 [[Personal website](http://dk-liang.github.io/)] [[Google scholar](https://scholar.google.com/citations?user=Tre69v0AAAAJ&hl=zh-CN)]
 
-## ✨ GitHub Stats
-<p align="center"> 
-  <img width="50%" align="center" alt="Dingkang Liang's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=dk-liang&show_icons=true" />
-</p>
 
 
 #### Awesome Repositories
